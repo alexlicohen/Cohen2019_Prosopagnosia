@@ -1,0 +1,1 @@
+a4d4fad3-68e1-4059-aa8f-4334f430dd05 chunk=50MiB encryption=none externaltype=rclone name=drive_annex prefix=git-annex rclone_layout=lower target=drive_annex type=external timestamp=1593211667.800733176s
